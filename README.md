@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Sou formado em [Inserir sua formação acadêmica aqui] e venho trabalhando na indústria de tecnologia há [inserir anos de experiência]. Meu objetivo é criar soluções inovadoras e eficientes que agreguem valor aos usuários e aos negócios.
+Sou formado em Ciência da Computação e venho trabalhando na indústria de tecnologia há 10. Meu objetivo é criar soluções inovadoras e eficientes que agreguem valor aos usuários e aos negócios.
 
 ## Experiência Profissional
 
@@ -70,6 +70,5 @@ Sou formado em [Inserir sua formação acadêmica aqui] e venho trabalhando na i
 
 Você pode me contatar através do meu [LinkedIn](https://www.linkedin.com/in/christophe-alexander-scantelbury-neves-gaia-3593bab6/) para oportunidades de colaboração ou discussões sobre tecnologia.
 
-![Profile Image](link_para_sua_imagem)
 
 Fique à vontade para explorar meus repositórios e projetos aqui no GitHub. Se você tiver alguma pergunta ou sugestão, não hesite em entrar em contato!
