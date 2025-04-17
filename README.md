@@ -23,15 +23,8 @@ implementation.
 - [Coming soon] - Integration with legacy technologies
 ### How to Reach Me
 - LinkedIn: [Christophe Alexander](https://www.linkedin.com/in/christophealexander-scantelbury-neves-gaia-3593bab6/)
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+
 - Email: christophescantelbury@gmail.com
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?
-username=ChristopheScantelbury&show_icons=true&theme=radical)
+### GitHub Stats 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristopheScantelbury&show_icons=true&theme=radical)
