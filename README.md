@@ -4,13 +4,13 @@
 experience, specializing in Java/Kotlin backend development and microservices
 implementation.
 ### About Me
-- Currently working as a Java Software Engineer at ACT Digital
+- Currently working as a Java Software Engineer at ScantelburyDevs
 - Specialized in backend development, microservices, and REST APIs
 - Experience with legacy front-end technologies (JSF, Struts, JSP, Flex)
 - Postgraduate degree in Software Engineering
 - Currently pursuing a Web Development Specialization at PUC-Minas
 ### Technical Skills
-- **Languages:** Java, Kotlin, JavaScript, HTML, XML, XQuery
+- **Languages:** Java, Kotlin, GO, JavaScript, HTML, XML, XQuery
 - **Frameworks:** Spring Boot, Spring Framework, Hibernate, JPA, EJB
 - **Architecture:** Microservices, SOA, REST APIs, System Integration
 - **Legacy Front-end:** JSF, Struts, JSP, Flex
