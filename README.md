@@ -18,9 +18,9 @@ implementation.
 - **DevOps:** Git, Jenkins, Maven, Subversion
 - **Methodologies:** Scrum, Kanban, TDD, Incremental Development
 ### Featured Projects
-- [Coming soon] - Microservices examples with Java/Kotlin
-- [Coming soon] - REST API demonstration with Spring Boot
-- [Coming soon] - Integration with legacy technologies
+ - Microservices examples with Java/Kotlin
+ - REST API demonstration with Spring Boot
+ - Integration with legacy technologies
 ### How to Reach Me
 - LinkedIn: [Christophe Alexander](https://www.linkedin.com/in/christophealexander-scantelbury-neves-gaia-3593bab6/)
 
